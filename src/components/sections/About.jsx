@@ -100,7 +100,7 @@ export const About = () => {
                             </p>
                         </div>
                         <div>
-                            <h4 className="font-semibold"> Web Developer at Askan Technologies Jan2024-Mar2024 </h4>
+                            <h4 className="font-semibold"> Web Developer at Askan Technologies May2023-Jun2023 </h4>
                             <p>
                                 Assisted in building front-end components and integration REST APIs  for  ChatBot for the Medical Diagnosis
                             </p>
